@@ -50,6 +50,7 @@ ${data.description}
 - [License](#license)
 - [Contributing](#Contributing)
 - [Tests](#tests)
+- [Questions](#email)
 
 ## Installation
 ${data.installation}
@@ -65,6 +66,9 @@ ${data.contributions}
 
 ## Tests
 ${data.tests}
+
+## Questions
+If you have any questions, feel free to reach out to me at ${data.email}
 `;
 }
 
