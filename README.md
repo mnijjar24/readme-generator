@@ -13,5 +13,7 @@ ReadMe Generator is created to act as a resource for everyone to be able to quic
 
 ## Links
 
-Deployed Application: 
-Github Repo: 
+Deployed Application: https://mnijjar24.github.io/readme-generator/
+Github Repo: https://github.com/mnijjar24/readme-generator
+Link to walkthrough video: https://youtu.be/HOpm-3tS2zw
+

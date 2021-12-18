@@ -2,7 +2,7 @@
 # ReadMe Generator
 
 ## Description
-Enter the description here
+This is the description
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,7 +13,7 @@ Enter the description here
 - [Questions](#email)
 
 ## Installation
-Details on installation to be entered here
+Installation details go here
 
 ## Usage
 Provide information here
@@ -22,10 +22,10 @@ Provide information here
 https://www.gnu.org/licenses/agpl-3.0
 
 ## Contributing
-Contribution details here
+Contribution details will go here
 
 ## Tests
-Running tests information to be entered here
+Running tests details will go here
 
 ## Questions
 If you have any questions, feel free to reach out to me at michellenijjar@hotmail.com
