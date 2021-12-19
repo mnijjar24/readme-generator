@@ -4,6 +4,12 @@ ReadMe Generator is created to act as a resource for everyone to be able to quic
 
 ## Screenshots of the Professional ReadMe Generator
 
+![1](https://user-images.githubusercontent.com/87215165/146655261-d60519c3-292a-45c1-b881-7ec8b53dfeb2.png)
+
+![2](https://user-images.githubusercontent.com/87215165/146655268-0a9e2715-c9d9-4892-8096-bcb5e73840ec.png)
+
+![3](https://user-images.githubusercontent.com/87215165/146655275-561c55a7-0393-4524-8280-9b810346b7ed.png)
+
 
 ## Links
 

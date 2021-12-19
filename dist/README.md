@@ -1,8 +1,8 @@
 
-# nkjkn
+# ReadMe Generator
 
 ## Description
-jcfx
+Enter the description here
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,19 +13,19 @@ jcfx
 - [Questions](#email)
 
 ## Installation
-jfxig
+Details on installation to be entered here
 
 ## Usage
-jfg
+Provide information here
 
 ## License
 https://www.gnu.org/licenses/agpl-3.0
 
 ## Contributing
-cjfk
+Contribution details here
 
 ## Tests
-cjfh
+Running tests information to be entered here
 
 ## Questions
-If you have any questions, feel free to reach out at jcifg
+If you have any questions, feel free to reach out to me at michellenijjar@hotmail.com
